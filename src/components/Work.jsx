@@ -1,5 +1,6 @@
 import React from 'react'
 import workImg from '../assets/snapgrampic.png'
+import velkan from '../assets/velkan.png'
 
 const Work = () => {
   return (
@@ -25,7 +26,7 @@ const Work = () => {
                         <a href='https://www.kaceywebyucatan.com/'>
                             <button className='text-center rounded-lg px-4 py-3 mx-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                         </a>
-                        <a href='/dist/index.html'>
+                        <a href='https://www.github.com/kflieder/snapgram'>
                             <button className='text-center rounded-lg px-4 py-3 mx-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
                     </div>
@@ -33,15 +34,15 @@ const Work = () => {
 
             </div>
             <div
-             style={{backgroundImage: `url(${workImg})`}}
+             style={{backgroundImage: `url(${velkan})`, backgroundSize: 'contain'}}
              className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                 {/* hover effects */}
                 <div className='opacity-0 group-hover:opacity-100'>
                     <span className='text-2xl font-bold text-white tracking-wider'>
-                            React JS Application
+                            Personal Business
                     </span>
                     <div className='pt-8 text-center'>
-                        <a href='/'>
+                        <a href='http://velkanlopez.com/'>
                             <button className='text-center rounded-lg px-4 py-3 mx-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                         </a>
                         <a href='/'>
