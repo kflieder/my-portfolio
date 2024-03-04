@@ -16,7 +16,7 @@ const About = () => {
                 </div>
                 <div>
                 <p> 
-                I'm a web developer based in the United States. I have a passion for web development and love to create for web and mobile devices.
+                I'm a self-taught front-end web developer fueled by a passion for technology and a desire to create impactful digital experiences. My journey into web development began during a period of self-discovery, where I found myself drawn back to the world of tech. Eager to apply my skills and contribute to my community, I reached out to local businesses without websites and offered to build one for them pro bono. This experience not only allowed me to refine my craft but also reaffirmed my aspiration to pursue a career in web development. With an eye on the horizon, I dream of embracing the digital nomad lifestyle, where I can blend my love for coding with my thirst for adventure. Currently, I'm broadening my expertise by diving into the realm of back-end development, driven by curiosity and a relentless pursuit of mastery. Let's connect and embark on this exciting journey together!
                 </p>
                 </div>
                 </div>
