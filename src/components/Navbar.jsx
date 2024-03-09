@@ -11,7 +11,7 @@ export const Navbar = () => {
     return (
         <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300'>
         <div>
-            <img src={mypic} alt="mypic" className='w-10 h-10 rounded-full'/>
+            <img src={mypic} alt="mypic" className='hidden md:block object-cover mt-20 w-32 h-32 rounded-full'/>
         </div>
         {/* menu */}
         <div className='hidden md:flex'>
